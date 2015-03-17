@@ -1,0 +1,13 @@
+List of words and symbols we've used so far.
+
+prints - prints to the screen
+puts - prints to the screen and adds a carriage return afterwards.
+"" and '' - used to signify string values, can be nested inside of each other
+# - octothorpe/pound/hash, can perform a couple of actions. Placed before text it comments out that line. Used with curly brackets #{} it acts to call the value of that variable or expression indicated inside the brackets
++ plus adds numbers together or can concatenate strings together
+- minus subtracts numbers
+* multiplies numbers
+/ divides numbers
+% - mod or modulus, returns the remainder after doing division
+<, >, <=, >= are normal greater/lesser booleans
+() parentheses holds an argument for a function
